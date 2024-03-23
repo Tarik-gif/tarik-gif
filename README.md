@@ -1,5 +1,4 @@
 ## Ola! Sou o Tarik  
-
 ## Bem-vindo ao meu perfil, faço trabalhos relacionados à designing. Caso precise de algo (ou queria saber sobre algo), chame dm no insta. Tmj!
 
 <div style="display: inline_block"><br>
