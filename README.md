@@ -13,7 +13,7 @@
 
 #
 
-![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarik-gif&show_icons=true&theme=radical)
+![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarik-gif&show_icons=true&theme=radical&theme=ambient_gradient)
 <div>
   
   <img align="center" alt="fake-github" height="100%" width="100%" src="github.png">
